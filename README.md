@@ -70,7 +70,7 @@ If you create your own version, please use a **different name and logo**.
 
 For partnership or trademark inquiries, please contact:  
 **Majels Open Source Team**  
-📧 info@majels.io *(example email — replace with your real contact)*  
+📧 dev@realtor-ksa.com *(example email — replace with your real contact)*  
 
 ---
 
